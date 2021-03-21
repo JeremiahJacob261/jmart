@@ -1,0 +1,43 @@
+body{
+    background-color:rgb(171, 191, 235);
+    color: rgb(53, 47, 88);
+}
+h2{
+color: darkblue;
+text-align: center;
+padding: 4dp;
+border: 2px solid rgb(80, 153, 221);
+max-height: 80px;
+}
+img{
+width: 40px;
+height: 40px;
+margin-left: 16%;
+}
+nav{
+    background-color: rgb(128, 170, 233);
+    color:whitesmoke;
+    text-align: center;
+    padding: 8px;;
+}
+#drop{
+    background-color: rgb(166, 166, 233);
+  display:none;  
+}
+#app{
+    text-align:center;
+    vertical-align: middle;
+    width:95%;
+    background-color:rgb(41, 120, 194);
+    font-size: 25px;
+    border-radius: 15px 15px 15px 15px;
+    padding: 10px;;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#down{
+    text-decoration: none;
+    color: black;
+}
+#ref{
+    text-decoration: none;
+}
